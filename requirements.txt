@@ -1,5 +1,5 @@
 numpy
 pandas
-yfianace
+yfinance
 plotly
 streamlit
